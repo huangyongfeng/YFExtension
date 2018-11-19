@@ -1,0 +1,22 @@
+{
+  "name": "YFExtension",
+  "version": "0.1.0",
+  "summary": "A short description of YFExtension.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/13910491050@139.com/YFExtension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "13910491050@139.com": "572186411@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/13910491050@139.com/YFExtension.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YFExtension/Classes/**/*"
+}

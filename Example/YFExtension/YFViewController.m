@@ -7,6 +7,7 @@
 //
 
 #import "YFViewController.h"
+#import <YFExtension/UIView+Extension.h>
 
 @interface YFViewController ()
 
@@ -17,7 +18,9 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+    
+    NSLog(@"width:%f", self.view.yf_width);
+    
 }
 
 - (void)didReceiveMemoryWarning

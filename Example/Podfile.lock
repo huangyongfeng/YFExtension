@@ -1,0 +1,16 @@
+PODS:
+  - YFExtension (0.1.0)
+
+DEPENDENCIES:
+  - YFExtension (from `../`)
+
+EXTERNAL SOURCES:
+  YFExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YFExtension: fb4cd1573f536bd2f762ebcde00d83ae6bd26b5e
+
+PODFILE CHECKSUM: 36f832d1a8057b41e9cc9267cfe45e4cf53ed3ee
+
+COCOAPODS: 1.5.3
