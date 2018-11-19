@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YFExtension_Example' do
+  pod 'YFExtension', :path => '../'
+
+  target 'YFExtension_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
